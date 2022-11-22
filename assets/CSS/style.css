@@ -1,0 +1,157 @@
+body{
+    width: 1440px;
+    margin-left: 20px;
+    margin-right: 20px;
+    font-family: barlow;
+}
+.container{
+    margin-left: 200px;
+}
+
+img{
+    width: 200px;
+    height: 200px;
+}
+
+.tm{
+    width: 40px;
+    height: 40px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.button1{
+    float: right;
+    font-weight: bold;
+    background-color: hsl(198, 28%, 93%);
+    padding: 15px;
+    margin-right: 100px;
+    margin-top: 10px;
+    border: none;
+    border-radius: 5px;
+}
+
+.section1{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 100px;
+}
+
+
+.typemastersection{
+    width: 380px;
+    margin-right: 300px;
+    margin-top: 50px;
+}
+.typemastersection .heading{
+    font-size: 80px;
+    font-weight: bold;
+    margin-bottom: 50px;
+    line-height: 70px;
+}
+.typemastersection .para{
+     color:hsl(221, 23%, 58%) ;
+     margin-bottom: 50px;
+}
+
+.button2{
+    color: white;
+    background-color: hsl(22, 89%, 52%);
+    padding: 10px;
+    margin-right: 10px;
+    margin-top: 10px;
+    border: none;
+    border-radius: 5px;
+}
+.typemastersection p{
+    float: right;
+    margin-right: 150px;
+    margin-top: 18px;
+
+}
+
+.image1{
+    width: 480px;
+    height: 500px;
+    border-radius: 50px;
+    margin-right: 100px;
+}
+.section2{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 100px;
+}
+
+.section2 .imageback{
+    background-color: hsl(22, 89%, 52%);
+    width: min-content;
+}
+
+.image2{
+    height: 500px;
+    width: 250px;
+    border-radius: 20px;
+    mix-blend-mode: multiply;
+
+}
+
+.image3{
+     height: 500px;
+     width: 400px;
+     border-radius: 5px;
+     margin-right: 170px;
+
+}
+.mechanicalsection{
+    width: 220px;
+    margin-right: 150px;
+    margin-top: 100px;
+}
+.mechanicalsection .heading{
+    width: 100px;
+    font-size: 60px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.mechanicalsection .para{
+    color:hsl(221, 23%, 58%) ;
+}
+.section3{
+    display: flex;
+    justify-content: space-around;
+     margin-top: 100px;
+     margin-bottom: 30px;
+}
+
+.main1, .main2, .main3, .main4{
+    border: none;
+    width: 200px;
+    margin-right: 100px;
+} 
+.main3{
+    margin-right: 150px;
+}
+.section3 img{
+    background-color:  hsl(22, 89%, 52%);
+    width: 20px;
+    height: 20px;
+    padding: 10px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+.section3 .heading{
+    font-size: 30px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.section3 .para{
+    color:hsl(221, 23%, 58%) ;
+
+}
+
+ footer{
+    margin-left:500px ;
+    margin-top: 50px;
+    font-family: bold;
+}
